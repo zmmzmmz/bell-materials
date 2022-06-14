@@ -1,0 +1,20 @@
+{
+  "name": "@bell/scaffold-icestark-child",
+  "version": "0.0.1",
+  "description": "中台微前端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmmzmmz/bell-materials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmmzmmz/bell-materials/issues"
+  },
+  "homepage": "https://github.com/zmmzmmz/bell-materials#readme"
+}

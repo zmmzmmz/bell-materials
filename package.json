@@ -1,0 +1,29 @@
+{
+  "name": "bell-materials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmmzmmz/bell-materials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmmzmmz/bell-materials/issues"
+  },
+  "homepage": "https://github.com/zmmzmmz/bell-materials#readme",
+  "devDependencies": {
+    "@iceworks/spec": "^1.6.0",
+    "@types/fs-extra": "^9.0.13",
+    "eslint": "^8.17.0",
+    "globby": "^13.1.2",
+    "ice-npm-utils": "^3.0.2",
+    "stylelint": "^14.9.1",
+    "ts-node": "^10.8.1"
+  }
+}
